@@ -1,7 +1,3 @@
 file-from-remote.txt
 
-<<<<<<< HEAD
-update from remote....
-=======
 update from local....
->>>>>>> f3d0961 (Update file-from-remote.txt from local)
